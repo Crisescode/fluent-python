@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# pycharm
+.idea/
+
+# jupyter
+.ipynb_checkpoints/
+
 # Distribution / packaging
 .Python
 build/
